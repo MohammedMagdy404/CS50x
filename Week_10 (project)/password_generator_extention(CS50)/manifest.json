@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "password generator",
+  "description": "this Extension will help you to generate strong passwords.",
+  "version": "1.0",
+  
+  "icons": {
+    "16": "password.png"
+  },
+
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "password generator"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ] 
+}

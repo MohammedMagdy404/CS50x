@@ -1,0 +1,10 @@
+prompt user enter height
+take the height and ask if (h<1) or (h>8)
+prompt user enter height
+take the height and ask if not (h<1) or (h>8)
+draw the pyramid
+print no. of spaces = n-i
+print no. of # = i + " "
+print no. of # = i
+after each row go to new line
+

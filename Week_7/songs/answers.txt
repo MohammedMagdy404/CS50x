@@ -1,0 +1,7 @@
+If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?:
+    by calculate the average of energy, valence, and danceability of a person’s top 100 songs from the past year. 
+    making the energy represent a color degree, valence, and danceability represent the opasity and the speed of the aura motion.
+
+
+Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of calculating this aura would you propose?
+    i think we must be analyze the different moods of the person among the year making a clusters and use more accurate math relations.

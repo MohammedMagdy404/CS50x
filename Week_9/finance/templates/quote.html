@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    quote
+{% endblock %}
+
+{% block main %}
+    <h1>quote</h1>
+    <form action="/quote" method="post">
+        <div class="mb-3">
+            <input autocomplete="off" autofocus class="form-control mx-auto w-auto" id="username" name="symbol" placeholder="symbol" type="text">
+        </div>
+        <button class="btn btn-primary" type="submit">submit</button>
+    </form>
+{% endblock %}

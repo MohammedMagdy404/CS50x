@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: by testing sort1 and sort3 in the best case to have big Omega sorted10000.txt the smallist time was sort1
+
+sort2 uses: Merge sort
+
+How do you know?: by testing all sorting program in the worst case to have big O reversed10000.txt the smallist time was sort2 
+
+sort3 uses: Selection sort
+
+How do you know?: by testing sort1 and sort3 in the best case to have big Omega sorted10000.txt the biggest time was sort3

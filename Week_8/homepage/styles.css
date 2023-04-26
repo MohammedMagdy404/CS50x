@@ -1,0 +1,24 @@
+body{
+    background-color: darkblue;
+}
+
+.nav_link {
+    text-decoration: none;
+    color: white;
+}
+
+#momo {
+    color: white;
+    font-size: 8rem;
+    font-family: 'Climate Crisis', cursive;
+    font-family: 'Pacifico', cursive;
+    font-weight: 800;
+}
+
+#nono {
+    color: rgb(252, 36, 151);
+    font-size: 2rem;
+    font-family: 'Climate Crisis', cursive;
+    font-family: 'Pacifico', cursive;
+    font-weight: 800;
+}   
