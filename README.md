@@ -7,7 +7,7 @@ Harvard CS50x — 2023
 </h1>
 
 # Certificate 
-<a href="https://certificates.cs50.io/1c5ca55b-bcec-4c2a-92f1-76ff3b084435.png">
+<a href="https://certificates.cs50.io/926c9cd4-e6e4-461d-8441-dda7fd1d95c3.png?size=letter">
   <img src="./images/CS50x.png" alt="certificates" />
 </a>
 
